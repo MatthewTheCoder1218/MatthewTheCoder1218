@@ -1,5 +1,6 @@
 # 💫 About Me:
-My name is Matthew AKA Little Prince
+**My name is Matthew AKA Little Prince.**
+
 I'm working on a project called BugBlaze 🔥. A tool used in catching bugs.<br>I'd like to collaborate with anyone 😊.<br>I'm currently learning 💧 Sui move.<br>Fun fact: I'm not as old as you think I am 😎
 
 
