@@ -1,7 +1,7 @@
 # 💫 About Me:
 **My name is Matthew AKA Little Prince.**
 
-I'm working on a project Unseen 🙈 and a project called Lumina ✨.<br>I'd like to collaborate with anyone 😊.<br>I'm currently learning 💧 Sui move.<br>Fun fact: I'm not as old as you think I am 😎
+I built a working backend framework called Princejs in three days 👑.<br>I'd like to collaborate with anyone 😊.<br>Fun fact: I'm not as old as you think I am 😎
 
 
 ## 🌐 Socials:
@@ -19,5 +19,6 @@ I'm working on a project Unseen 🙈 and a project called Lumina ✨.<br>I'd lik
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MatthewTheCoder1218&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
