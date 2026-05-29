@@ -34,7 +34,7 @@
 
 ![](https://streak-stats.demolab.com/?user=MatthewTheCoder1218&hide_border=true&background=1a1025&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=6b7280&dates=6b7280&stroke=2d1f42)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatthewTheCoder1218&hide_border=true&bg_color=1a1025&title_color=A78BFA&text_color=6b7280&layout=compact&langs_count=8)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatthewTheCoder1218&hide_border=true&bg_color=1a1025&title_color=A78BFA&text_color=fff&layout=compact&langs_count=8)
 
 ---
 
