@@ -32,9 +32,11 @@
 
 ### 📊 Stats
 
-![](https://streak-stats.demolab.com/?user=MatthewTheCoder1218&hide_border=true&background=1a1025&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=ffffff&dates=ffffff&stroke=2d1f42)
+![](https://streak-stats.demolab.com/?user=MatthewTheCoder1218&hide_border=true&background=1a1025&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=ffffff&dates=ffffff&stroke=2d1f42&currStreakNum=ffffff&sideNums=ffffff&v=2)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatthewTheCoder1218&hide_border=true&bg_color=1a1025&title_color=A78BFA&text_color=fff&layout=compact&langs_count=8)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MatthewTheCoder1218&rank_icon=github&hide_title=true&include_all_commits=true&hide_border=true&bg_color=1a1025&title_color=A78BFA&text_color=fff&layout=compact&langs_count=8)
+
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=MatthewTheCoder1218&hide_border=true&bg_color=1a1025&title_color=A78BFA&text_color=fff&layout=compact&langs_count=8)
 
 ---
 
